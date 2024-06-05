@@ -1,0 +1,813 @@
+.hero{
+
+    width:980px;
+    height:60px;
+    margin-top: 40px;
+    margin-left: 175px;
+    background-color: white;
+    display: flex;
+}
+
+.logo a{
+
+width: 106.18px;
+height: 34.41px;
+margin-top: 11px;
+left: 175px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+}   
+
+.hero p{
+
+width: 9px;
+height: 5px;
+top: 63px;
+left: 283px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 4.15px;
+font-weight: 800;
+line-height: 5.23px;
+text-align: left;
+}
+
+.nav-list ul{
+
+width: Hug (378px)px;
+height: Hug (26px)px;
+top: 55px;
+margin-left: 50px;
+gap: 24px;
+opacity: 0px;
+display: flex;
+justify-content: space-evenly;
+}
+
+.nav-list a:hover{
+
+    color: #ff5555;
+}
+
+.home a{
+
+width: 60px;
+height: 26px;
+gap: 0px;
+opacity: 0px;
+padding-right: 20px;
+font-family: Clash Display;
+font-size: 20px;
+font-weight: 700;
+line-height: 26px;
+text-align: left;
+color: #FF5555;
+text-decoration: none;
+}
+
+.aboutus,.pricing,.feature{
+
+width: 89px;
+height: 26px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 20px;
+font-weight: 500;
+line-height: 26px;
+text-align: left;
+color: #000000;
+text-decoration: none;
+}
+
+.download input{
+
+    width: 180px;
+    height: 60px;
+    top: 40px;
+    margin-left: 200px;
+    gap: 0px;
+    border-radius: 4px 4px 4px 4px;
+    opacity: 0px;    
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.theme-toggle button{
+
+    width: 180px;
+    height: 60px;
+    top: 40px;
+    margin-left: 20px;
+    gap: 0px;
+    border-radius: 4px 4px 4px 4px;
+    opacity: 0px;    
+    background-color: #000000;
+    color: #ffffff;    
+}
+
+/* Add this to your CSS file (style.css) */
+
+body {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+header.dark-mode, footer.dark-mode {
+    background-color: #1e1e1e;
+}
+
+section.dark-mode {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+/* Add any other specific dark mode styles for other elements */
+
+
+.container1 {
+    position: relative;
+    width: 300px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+}
+
+.orangepart{
+
+    width: 387px;
+    height: 250px;
+    margin-top: -20px;
+    margin-left: 300px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.container1 h1{
+
+    width: 618px;
+    height: 128px;
+    margin-top: -160px;
+    margin-left: 150px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: left;
+    color: #000000;
+
+}
+
+.container1 p{
+
+    width: 638px;
+    height: 56px;
+    margin-top: -25px;
+    margin-left: 158px;
+    gap: 0px;
+    opacity: 0.5px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+}
+
+.group5{
+
+    width: 374px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 175px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.Group35924{
+
+    width: 569px;
+    height: 357.74px;
+    margin-top: 0px;
+    margin-left: 121px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.Frame1{
+
+    width: 482px;
+    height: 645px;
+    margin-top: -850px;
+    margin-left: 850px;
+    margin-bottom: 115px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+
+
+.image1{
+
+position: absolute;
+width: 380.76px;
+height: 500.15px;
+margin-top: -680px;
+margin-left: 880.6px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.image2 {
+
+position: absolute;
+width: 350.76px;
+height: 500.15px;
+margin-top: -720px;
+margin-left: 770px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.container2-part1 {
+    position: relative;
+    width: 300px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+}
+
+
+.orangepart1{
+
+    height: 400px;
+    width: 400px;
+    margin-top: 400px;
+    margin-left: 50px;
+}
+
+.container2Image1{
+
+    width: 619.49px;
+    height: 619.49px;
+    margin-top: -450px;
+    margin-left: 20px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid white;  
+    position: absolute;  
+}
+
+.container2-part2{
+
+    position: relative;
+    width: 300px; /* Adjust as needed */
+    height: 300px;
+}
+
+.container2-part2 h2{
+
+    width: 116px;
+    height: 28px;
+    margin-top: 120px;
+    margin-left: 730px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-weight: 800;
+    line-height: 28px;
+    letter-spacing: 0.16em;
+    text-align: left;
+    color:#FF5555;
+    
+}
+
+.container2-part2 p{
+
+    width: 359px;
+    height: 48px;
+    margin-top: 20px;
+    margin-left: 730px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    
+}
+
+.subpart1{
+
+    display: flex;
+}
+
+.icon{
+
+    width: 20px;
+    height: 20px;
+    top: 2px;
+    margin-left: 733px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.subpart1 p{
+
+    width: 175px;
+    height: 5px;
+    margin-top: -6px;
+    margin-left: 5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #000000;
+
+}
+
+.subpart2 p{
+
+    width: 638px;
+    height: 56px;
+    margin-top: -50 px;
+    margin-left: 730px;
+    gap: 0px;
+    opacity: 0.5px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+}
+
+.subpart3 p{
+
+    width: 175px;
+    height: 5px;
+    margin-top: -6px;
+    margin-left: 5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #000000;
+
+}
+
+.subpart5 p{
+
+    width: 175px;
+    height: 5px;
+    margin-top: -6px;
+    margin-left: 5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #000000;
+
+}
+
+.subpart4 p{
+
+    width: 638px;
+    height: 56px;
+    margin-top: -50 px;
+    margin-left: 730px;
+    gap: 0px;
+    opacity: 0.5px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+}
+
+.subpart6 p{
+
+    width: 638px;
+    height: 56px;
+    margin-top: -50 px;
+    margin-left: 730px;
+    gap: 0px;
+    opacity: 0.5px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+}
+
+.subpart3{
+
+    display: flex;
+}
+
+.icon1{
+
+    width: 20px;
+    height: 20px;
+    top: 2px;
+    margin-left: 733px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.subpart5{
+
+    display: flex;
+}
+
+.cube{
+
+    width: 20px;
+    height: 20px;
+    top: 2px;
+    margin-left: 733px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.orangepart2{
+
+    width: 327px;
+    height: 237.26px;
+    margin-top: -250px;
+    margin-left: 1031px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.container3-part1{
+
+    position: relative;
+    width: 500px; /* Adjust as needed */
+    height: 300px;
+}
+
+.container3-part1 h2{
+
+    width: 116px;
+    height: 28px;
+    margin-top: 240px;
+    margin-left: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-weight: 800;
+    line-height: 28px;
+    letter-spacing: 0.16em;
+    text-align: left;
+    color:#FF5555;
+    
+}
+
+.container3-part1 p{
+
+    width: 500px;
+    height: 48px;
+    margin-top: 20px;
+    margin-left: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    
+}
+
+.notification{
+
+    width: 48px;
+    height: 48px;
+    margin-top: -50px;
+    margin-left: 20px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.container3-subpart1{
+
+    display: flex;
+}
+
+.container3-subpart1 p{
+
+    width: 273px;
+    height: 28px;
+    margin-top: -36px;
+    margin-left: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+        
+}
+
+.container3-subpart2 p{
+
+    width: 535px;
+    height: 140px;
+    margin-top: 10px;
+    margin-left: 30px;
+    gap: 0px;
+    opacity: 0.5px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+        
+}
+
+.container3Image1{
+
+    width: 619.49px;
+    height: 619.49px;
+    margin-top: -400px;
+    margin-left: 700px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid white;  
+    position: absolute;  
+}
+
+.orangepart3{
+
+    width: 327px;
+    height: 237.26px;
+    margin-top: -250px;
+    margin-left: 731px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.container4{
+
+    position: relative;
+    width: 300px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */    
+}
+
+.container4-Image1{
+
+    position: absolute;
+    width: 719.49px;
+    height: 719.49px;
+    margin-top: -500px;
+    margin-left: 48px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.container3-part2{
+
+    position: relative;
+    width: 300px; /* Adjust as needed */
+    height: 300px;
+}
+
+.orangepart4{
+
+    width: 327px;
+    height: 237.26px;
+    margin-top: 80px;
+    margin-left: 50px;
+    gap: 0px;
+    opacity: 0px;     
+}
+
+
+.container4-part2{
+
+    display: flex;
+}
+
+.container4-icon1{
+
+    width: 48px;
+    height: 48px;
+    margin-top: -270px;
+    margin-left: 720px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.container4-part2 p{
+
+    width: 273px;
+    height: 28px;
+    margin-top: -260px;
+    margin-left: 10px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+        
+}
+
+.container4-part3 p{
+
+    width: 535px;
+    height: 140px;
+    margin-top: -200px;
+    margin-left: 730px;
+    gap: 0px;
+    opacity: 0.5px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+        
+}
+
+.review{
+
+    height: 700px;
+    width:700px;
+}
+
+.container5-subpart2 h2{
+
+    margin-top: -480px;
+    margin-left: 730px;
+}
+
+.container5-subpart2 p{
+
+    position: absolute;
+    width: 535px;
+    height: 140px;
+    margin-top: 10px;
+    margin-left: 730px;
+    gap: 0px;
+    opacity: 0.5px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+        
+}
+
+.review1{
+
+    height: 100px;
+    width:300px;
+    margin-top: 160px;
+    margin-left: 700px;
+}
+
+.container5-subpart2 h3{
+
+    margin-left: 750px;
+}
+
+.container6{
+
+    margin-top: 250px;
+}
+
+.row1-column1{
+
+    background-color: #FF5555;
+    border-radius: 5px;
+    width:500px;
+    margin-left: 150px;
+    margin-bottom: 15px;
+    padding: 10px;
+    color: white;
+}
+
+.row3-column1{
+
+    background-color: #FF5555;
+    border-radius: 5px;
+    width:500px;
+    margin-left: 150px;
+    margin-top: 15px;
+    padding: 10px;
+    color: white;    
+}
+
+.row2-column2{
+
+    background-color: #FF5555;
+    border-radius: 5px;
+    width:500px;
+    margin-left: 680px;
+    margin-top: -140px;
+    padding: 10px;
+    color: white;
+
+}
+
+.row1-column2,.row3-column2{
+
+    background-color: white;
+    border-radius: 5px;
+    width:500px;
+    margin-left: 680px;
+    margin-top: -180px;
+    padding: 10px;
+    color: black;
+}
+
+.row2-column1{
+
+    background-color: white;
+    border-radius: 5px;
+    width:500px;
+    margin-left: 150px;
+    padding: 10px;
+    color: black;
+
+}    
+
+.container7 img{
+
+    height:400px;
+    width:100%;
+    margin-top: 80px;
+}
+
+.quick-links{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.quick-links a{
+
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+}
+
+.quick-links li{
+
+    padding-bottom: 25px;
+}
+
+#email{
+    height: 40px;
+    width: 180px;
+}
+
+.subscribe{
+
+    margin-top: 110px;
+    margin-left: -80px;
+    height: 50px;
+    width: 130px;
+    background-color: black;
+    color: white;
+}
